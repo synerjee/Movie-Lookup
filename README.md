@@ -1,3 +1,12 @@
+MOVIE-LOOKUP
+
+Created with React, React-DOM, Axios, and TMDB API.
+Searches movies and retrieves their information.
+Make sure you install the dependencies listed in package.json
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
