@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.Title {
+  font-family: 'Pacifico', cursive;
+}
+
+.Movie-title {
+  font-family: 'Permanent Marker', cursive;
+}
+
+.Search {
+  width: 33%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Search button {
+  float: right;
+  cursor: pointer;
+  height: 45px;
+}
+
+#attribution {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
