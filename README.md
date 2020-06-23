@@ -1,7 +1,7 @@
 MOVIE-LOOKUP
 
 
-Created with React, React-DOM, Axios, and TMDB API.
+Created with React, React-DOM, Materialize, Axios, and TMDB API.
 
 Searches movies and retrieves their information.
 
