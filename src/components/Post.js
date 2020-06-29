@@ -7,7 +7,7 @@ class Post extends Component {
   }
 
   componentDidMount() {
-    axios.get("https://api.themoviedb.org/3/movie/"+this.props.match.params.post_id+"?api_key=11bbe9842142564264d9a43fbddc1cc5&language=en-US").then(
+    axios.get("https://api.themoviedb.org/3/movie/"+this.props.match.params.post_id+"?api_key=[API_KEY]&language=en-US").then(
       res => {
         this.setState({
           data: res.data
