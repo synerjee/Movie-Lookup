@@ -11,7 +11,7 @@ class Result extends Component {
   }
 
   componentDidMount() {
-    axios.get('https://api.themoviedb.org/3/search/movie?api_key=11bbe9842142564264d9a43fbddc1cc5&language=en-US&query='+this.props.match.params.query+'&page='+this.props.match.params.page_no+'&include_adult=false').then(
+    axios.get('https://api.themoviedb.org/3/search/movie?api_key=[API_KEY]&language=en-US&query='+this.props.match.params.query+'&page='+this.props.match.params.page_no+'&include_adult=false').then(
       res => {
         this.setState({
           query: '',
