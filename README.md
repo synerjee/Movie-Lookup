@@ -1,7 +1,9 @@
 MOVIE-LOOKUP
 
+NOTE: Since this version of the app does not include the API key, which is necessary for this app to function properly, 
+please contact the owner of this application for the permission to use the application.
 
-Created with React, React-DOM, Materialize, Axios, and TMDB API.
+Created with HTML, CSS, React, React-DOM, Materialize, Axios, and TMDB API.
 
 Searches movies and retrieves their information.
 
